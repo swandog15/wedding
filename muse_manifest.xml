@@ -1,0 +1,119 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ARI-ANDY.COM" resolutions="1x" timestamp="1475526429752">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="351554290" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="474750357" ref="phone>index:index"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u2193-6.png" crc="4272224331" ref="phone>index"/>
+    <file name="u2194-6.png" crc="367996744" ref="phone>index"/>
+    <file name="u2195-6.png" crc="4268663035" ref="phone>index"/>
+    <file name="u2196-6.png" crc="3921056665" ref="phone>index"/>
+    <file name="u2197-6.png" crc="292081647" ref="phone>index"/>
+    <file name="u2199-6.png" crc="4105069574" ref="phone>index"/>
+    <file name="u2198-6.png" crc="312560317" ref="phone>index"/>
+    <file name="clouds 1.png" crc="91275663" seo="true" ref="phone>index:index"/>
+    <file name="clouds 2.png" crc="4269856533" seo="true" ref="phone>index:index"/>
+    <file name="clouds 4.png" crc="4247828500" seo="true" ref="phone>index:index"/>
+    <file name="clouds 5.png" crc="497238893" seo="true" ref="phone>index:index"/>
+    <file name="clouds 6.png" crc="4228210194" seo="true" ref="phone>index:index"/>
+    <file name="clouds 7.png" crc="4144300782" seo="true" ref="phone>index:index"/>
+    <file name="topphoto.jpg" crc="4172479098" ref="phone>index:index"/>
+    <file name="web title bar-crop-u2178.png" crc="424287896" ref="phone>index"/>
+    <file name="story border251x512.png" crc="4072401775" seo="true" ref="phone>index"/>
+    <file name="holding hands.png" crc="486169962" seo="true" ref="phone>index:index"/>
+    <file name="sushi.png" crc="4192238665" seo="true" ref="phone>index:index"/>
+    <file name="3d.png" crc="4183018387" seo="true" ref="phone>index:index"/>
+    <file name="bowling pizza.png" crc="50378011" seo="true" ref="phone>index:index"/>
+    <file name="bird flags275x110.png" crc="4003879497" seo="true" ref="phone>index"/>
+    <file name="u2344-4.png" crc="3939334131" ref="phone>index"/>
+    <file name="u2567-4.png" crc="92124125" ref="phone>index"/>
+    <file name="u2606-4.png" crc="325106113" ref="phone>index"/>
+    <file name="menu 2 v3-u2607-fr.png" crc="4025080203" ref="phone>index"/>
+    <file name="u2620-4.png" crc="43848259" ref="phone>index"/>
+    <file name="parking map small347x276.png" crc="386824148" seo="true" ref="phone>index"/>
+    <file name="hot air balloon137x137.png" crc="3871556659" seo="true" ref="phone>index"/>
+    <file name="u2646-4.png" crc="4028359823" ref="phone>index"/>
+    <file name="travel111x77.png" crc="4265260258" seo="true" ref="phone>index"/>
+    <file name="1marissa247x247.png" crc="102619732" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="2erica247x247.png" crc="310149740" seo="true" ref="phone>index"/>
+    <file name="3chelsea247x247.png" crc="107476680" seo="true" ref="phone>index"/>
+    <file name="4wendy247x247.jpg" crc="337388899" seo="true" ref="phone>index"/>
+    <file name="5alysia-crop-u2361.jpg" crc="397955539" ref="phone>index"/>
+    <file name="1 andrew v2247x247.jpg" crc="3944905603" seo="true" ref="phone>index"/>
+    <file name="2matt247x247.jpg" crc="3896880280" seo="true" ref="phone>index"/>
+    <file name="3 kevin247x247.jpg" crc="4289913345" seo="true" ref="phone>index"/>
+    <file name="4 adam247x247.jpg" crc="4157380057" seo="true" ref="phone>index"/>
+    <file name="5 ethan247x247.jpg" crc="3792383994" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="floating heat.png" crc="4055859809" seo="true" ref="phone>index:index"/>
+    <file name="lajolla_marriott-u2649-fr.jpg" crc="4263783038" ref="phone>index"/>
+    <file name="beachlajollawide-u2661-fr.jpg" crc="262000463" ref="phone>index"/>
+    <file name="residence-u2647-fr.jpg" crc="181319859" ref="phone>index"/>
+    <file name="valentines_day_heart_balloons-wallpaper-2880x1800.jpg" crc="4168179065" ref="phone>index:index"/>
+    <file name="u2685-4.png" crc="4007934051" ref="phone>index"/>
+    <file name="1000px-macys-u2682-fr.png" crc="278432272" ref="phone>index"/>
+    <file name="honeyfund-logo-u2683-fr.png" crc="53050262" ref="phone>index"/>
+    <file name="skirballlogomonday-u2684-fr.jpg" crc="3903073269" ref="phone>index"/>
+    <file name="bird flags.png" crc="230536308" seo="true" ref="index"/>
+    <file name="u133-4.png" crc="469233658" ref="index"/>
+    <file name="story border.png" crc="327607842" seo="true" ref="index"/>
+    <file name="travel.png" crc="267928630" seo="true" ref="index"/>
+    <file name="champagne glasses.png" crc="4008620223" seo="true" ref="index"/>
+    <file name="love birds.png" crc="54208623" seo="true" ref="index"/>
+    <file name="u150-4.png" crc="231009801" ref="index"/>
+    <file name="u181-4.png" crc="27293618" ref="index"/>
+    <file name="menu 2 v3.png" crc="4051910913" ref="index"/>
+    <file name="beachlajollawide.jpg" crc="3785998009" ref="index"/>
+    <file name="u186-4.png" crc="3835477344" ref="index"/>
+    <file name="u910-4.png" crc="525243044" ref="index"/>
+    <file name="lajolla_marriott.jpg" crc="3884569307" ref="index"/>
+    <file name="residence.jpg" crc="4247733196" ref="index"/>
+    <file name="parking map small.png" crc="3804230474" seo="true" ref="index"/>
+    <file name="1marissa.png" crc="455873174" seo="true" ref="index"/>
+    <file name="2erica.png" crc="521861459" seo="true" ref="index"/>
+    <file name="3chelsea.png" crc="365253863" seo="true" ref="index"/>
+    <file name="4wendy.jpg" crc="289760725" seo="true" ref="index"/>
+    <file name="5alysia.jpg" crc="4177639596" seo="true" ref="index"/>
+    <file name="1 andrew v2.jpg" crc="249519443" seo="true" ref="index"/>
+    <file name="2matt.jpg" crc="20795578" seo="true" ref="index"/>
+    <file name="3 kevin.jpg" crc="91690498" seo="true" ref="index"/>
+    <file name="4 adam.jpg" crc="131324183" seo="true" ref="index"/>
+    <file name="5 ethan.jpg" crc="4260321033" seo="true" ref="index"/>
+    <file name="hot air balloon.png" crc="233079576" seo="true" ref="index"/>
+    <file name="web title bar.png" crc="475935677" seo="true" ref="index"/>
+    <file name="u75-6.png" crc="4275754071" ref="index"/>
+    <file name="u76-6.png" crc="4146217467" ref="index"/>
+    <file name="u77-6.png" crc="331786843" ref="index"/>
+    <file name="u78-6.png" crc="4107806629" ref="index"/>
+    <file name="u79-6.png" crc="20588226" ref="index"/>
+    <file name="u81-6.png" crc="3946126369" ref="index"/>
+    <file name="u80-4.png" crc="515181222" ref="index"/>
+    <file name="u244-4.png" crc="536392027" ref="index"/>
+    <file name="u976-4.png" crc="23754330" ref="index"/>
+    <file name="1000px-macys.png" crc="488630727" ref="index"/>
+    <file name="honeyfund-logo.png" crc="19393624" ref="index"/>
+    <file name="skirballlogomonday.jpg" crc="4254662501" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="397004109" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3888039371" seo="true" mt="1472618848019" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3849237006" seo="true" mt="1472619156329" redirect="true"/>
+</manifest>
